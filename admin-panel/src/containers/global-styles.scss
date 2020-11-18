@@ -1,0 +1,10 @@
+@import "node_modules/nord/src/sass/nord.scss";
+
+html, body {
+    margin: 0;
+}
+
+.App {
+    background-color: $nord0;
+    color: $nord6;
+}
